@@ -1,1 +1,3 @@
-# Django-Financepeer-
+# Django
+
+Tweeter clone
